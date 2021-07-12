@@ -5,7 +5,7 @@ This is a boilerplate created from the official boilerplate using the Shopify [S
 ## Installation
 
 Fork and clone repo.
-run npm install.
+Run npm install.
 
 ## Requirements
 
